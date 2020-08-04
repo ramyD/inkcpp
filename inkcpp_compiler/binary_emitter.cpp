@@ -3,6 +3,7 @@
 #include <vector>
 #include <map>
 #include <fstream>
+#include <cctype>
 
 namespace ink::compiler::internal
 {
